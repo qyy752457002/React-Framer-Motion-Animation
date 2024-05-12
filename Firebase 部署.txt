@@ -1,0 +1,12 @@
+设置Firebase托管: 
+https://console.firebase.google.com/project/react-framer-motion-animation/hosting/sites/react-framer-motion-animation
+
+禁用Firebase托管: 
+firebase hosting:disable
+
+启用Firebase托管: 
+firebase hosting:enable
+
+
+
+
